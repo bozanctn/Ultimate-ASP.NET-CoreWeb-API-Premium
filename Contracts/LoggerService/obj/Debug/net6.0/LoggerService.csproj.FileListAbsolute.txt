@@ -1,0 +1,12 @@
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\bin\Debug\net6.0\LoggerService.dll
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.dll
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+C:\Users\ozan_cetin\source\repos\Contracts\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

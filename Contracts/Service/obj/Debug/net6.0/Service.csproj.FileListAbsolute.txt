@@ -1,0 +1,5 @@
+C:\Users\ozan_cetin\source\repos\Contracts\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\ozan_cetin\source\repos\Contracts\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan_cetin\source\repos\Contracts\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\ozan_cetin\source\repos\Contracts\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\ozan_cetin\source\repos\Contracts\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache

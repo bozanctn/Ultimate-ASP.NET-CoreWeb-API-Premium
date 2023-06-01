@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6a7uR6cDUtdwqjjorUv7ZD1JTZ1temHCMaVEHsIx8w5Lu7/hgN0/R4hCRoiRf8UJWslYvRxGeMEner6a9qraZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozan_cetin\\source\\repos\\Contracts\\Service.Contracts\\Service.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ozan_cetin\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

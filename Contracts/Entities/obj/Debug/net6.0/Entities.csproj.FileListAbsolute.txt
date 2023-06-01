@@ -1,0 +1,15 @@
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\bin\Debug\net6.0\Shared.dll
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\bin\Debug\net6.0\Shared.pdb
+C:\Users\ozan_cetin\source\repos\Contracts\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
